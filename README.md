@@ -7,6 +7,11 @@
 </p>
 
 <hr/>
+<p>
+  <img src="https://media.tenor.com/s804Mj4w9pQAAAAi/superman-logo.gif" width="200" alt="HV" />
+</p>
+
+<hr/>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3ohs7XRrW0HAoNqzUA/giphy.gif" width="200" alt="Hung" />
