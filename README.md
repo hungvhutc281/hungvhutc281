@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm HungHV</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h1 align="center">Chào 👋, Tôi là HungHV</h1>
+<h3 align="center">Là Developer BackEnd From Viet Nam</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 </p>
 
-- 🔭 I’m currently working on: `DUAN1`, `DUAN2`, `MVCrud`
-- 🌱 I’m learning: `C#`, `ASP.NET Core`, `HTML/CSS`, `SCSS`
-- 💬 Ask me about: `.NET`, `SQL Server`, `SCADA`, `Git`
-- ⚡ Fun fact: I love building UI that feels real-time and smooth!
+- 🌱 Ngôn ngữ dùng: `C#`,`Javascript`, `React JS`
+- 💬 Ask me about: `.NET`
+- ⚡ About Contact : FB, TELE, Ins
 
 ---
 
@@ -32,13 +31,6 @@
 ### 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hungvhutc281&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Snake Contributions
-<p align="center">
-  <img src="https://github.com/hungvhutc281/hungvhutc281/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
