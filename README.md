@@ -20,23 +20,3 @@
   <img src="https://img.shields.io/badge/Database-003545?style=flat-square&logo=postgresql&logoColor=white" alt="Database/DBeaver"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hungvhutc281&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hungvhutc281&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/hungvhutc281/hungvhutc281/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
