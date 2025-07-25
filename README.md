@@ -5,9 +5,16 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 </p>
 
-- 🌱 Ngôn ngữ dùng: `C#`,`Javascript`, `React JS`
-- 💬 Ask me about: `.NET`
-- ⚡ About Contact : FB, TELE, Ins
+<p align="center">
+  <img src="https://media.giphy.com/media/EFXGvbDPhLoWs/giphy.gif" width="200" alt="Doraemon" />
+  <img src="https://media.giphy.com/media/KtM4TnAEB0h8wxN3OB/giphy.gif" width="200" alt="Conan" />
+</p>
+
+---
+
+- 🌱 Ngôn ngữ dùng: `C#`,`Javascript`, `React JS`  
+- 💬 Ask me about: `.NET`  
+- ⚡ About Contact : FB, TELE, Ins  
 
 ---
 
@@ -19,4 +26,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> 
   <img src="https://img.shields.io/badge/Database-003545?style=flat-square&logo=postgresql&logoColor=white" alt="Database/DBeaver"/>
 </p>
+
 
