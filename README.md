@@ -6,6 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 
+<hr/>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3ohs7XRrW0HAoNqzUA/giphy.gif" width="200" alt="Hung" />
@@ -19,7 +20,7 @@
 - 💬 Ask me about: `.NET`  
 - ⚡ About Contact: FB, TELE, Ins  
 
-
+<hr/>
 
 ### 🛠 Languages and Tools
 <p align="left">
