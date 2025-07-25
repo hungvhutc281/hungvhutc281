@@ -7,6 +7,13 @@
 
 <hr/>
 
+<table align="center">
+  <tr>
+    <td><img src="https://media.tenor.com/s804Mj4w9pQAAAAi/superman-logo.gif" width="200" height="200" alt="Hung" /></td>
+  </tr>
+</table>
+
+<hr/>
 
 <table align="center">
   <tr>
