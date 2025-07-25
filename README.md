@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/EFXGvbDPhLoWs/giphy.gif" width="200" alt="Doraemon" />
-  <img src="https://media.giphy.com/media/KtM4TnAEB0h8wxN3OB/giphy.gif" width="200" alt="Conan" />
+  <img src="https://media.giphy.com/media/3ohs7XRrW0HAoNqzUA/giphy.gif" width="200" alt="Hung" />
+  <img src="https://www.icegif.com/wp-content/uploads/dog-icegif-10.gif" width="200" alt="HV" />
+  <img src="https://media.giphy.com/media/qrLSHqeVXhnpe/giphy.gif" width="200" alt="HV" />
 </p>
 
 ---
