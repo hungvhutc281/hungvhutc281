@@ -2,7 +2,7 @@
 <h3 align="center">Là Developer BackEnd From Viet Nam</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="250" />
 </p>
 
 <hr/>
