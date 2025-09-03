@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td><img src="https://media.giphy.com/media/3ohs7XRrW0HAoNqzUA/giphy.gif" width="200" height="200" alt="Hung" /></td>
-    <td><img src="https://media.giphy.com/media/3ohs7XRrW0HAoNqzUA/giphy.gif](https://i.pinimg.com/originals/51/b1/2a/51b12a90d2203edcd29972bdd7521127.gif" width="200" height="200" alt="Hung" /></td>
+    <td><img src="https://i.pinimg.com/originals/51/b1/2a/51b12a90d2203edcd29972bdd7521127.gif" width="200" height="200" alt="Hung" /></td>
     <td><img src="https://www.icegif.com/wp-content/uploads/dog-icegif-10.gif" width="200" height="200" alt="HV" /></td>
     <td><img src="https://media.giphy.com/media/qrLSHqeVXhnpe/giphy.gif" width="200" height="200" alt="HV" /></td>
   </tr>
